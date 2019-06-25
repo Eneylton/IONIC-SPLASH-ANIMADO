@@ -1,0 +1,8 @@
+{
+  "name": "app-splash-animado",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
